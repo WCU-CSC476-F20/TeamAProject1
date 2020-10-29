@@ -19,13 +19,13 @@ public class Rotating : MonoBehaviour
             }
         }
         if(Input.GetKey(KeyCode.W)){
-            if(gameObject.transform.rotation.eulerAngles.z > 330 || gameObject.transform.rotation.eulerAngles.z <= 31){
-                transform.Rotate(0,0,-.2f);
+            if(gameObject.transform.rotation.eulerAngles.z < 30 || gameObject.transform.rotation.eulerAngles.z >= 329){
+                transform.Rotate(0,0,.2f);
             }
         }
         if(Input.GetKey(KeyCode.S)){
-            if(gameObject.transform.rotation.eulerAngles.z < 30 || gameObject.transform.rotation.eulerAngles.z >= 329){
-                transform.Rotate(0,0,.2f);
+            if(gameObject.transform.rotation.eulerAngles.z > 330 || gameObject.transform.rotation.eulerAngles.z <= 31){
+                transform.Rotate(0,0,-.2f);
             }
         }
 /*        if(!Input.anyKey){
