@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Labryinth : MonoBehaviour
 {
@@ -27,6 +28,9 @@ public class Labryinth : MonoBehaviour
         StartLevel();
     }
     void StartLevel(){
+        if(Fail.failMet == true){
+            lives--;
+        }
         Goal.goalMet = false;
         Fail.failMet = false;
         winUI.SetActive(false);
@@ -43,6 +47,14 @@ public class Labryinth : MonoBehaviour
     public void ResetLevel(){
         StartLevel();
     }
+    public void NextLevel(){
+        level++;
+        if(level == levelMax){
+            SceneManager.LoadScene("GameOver");
+        }else{
+            StartLevel();
+        }
+    }
 
     // Update is called once per frame
     void Update()
@@ -57,6 +69,9 @@ public class Labryinth : MonoBehaviour
             }
         }
         if(Fail.failMet == true){
+            if(lives == 0){
+                SceneManager.LoadScene("GameOver");
+            }
             print("hit a fail hole");
             loseUI.SetActive(true);
             GameObject[] gos = GameObject.FindGameObjectsWithTag("Ball");
