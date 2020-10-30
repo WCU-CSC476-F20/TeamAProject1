@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-30T10:33:00.537-04:00
+  lastUpdatedAtString: 2020-10-30T10:34:29.541-04:00
   initializedAtString: 2020-10-30T10:19:42.368-04:00
   entries:
   - path: New Unity Project\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,12 +52,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: New Unity Project\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: New Unity Project\Temp\UnityLockfile
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile

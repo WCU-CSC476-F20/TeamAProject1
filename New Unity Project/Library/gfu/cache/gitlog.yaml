@@ -13,9 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-30T10:32:59.905-04:00
+  lastUpdatedAtString: 2020-10-30T10:34:28.929-04:00
   initializedAtString: 2020-10-30T10:19:31.877-04:00
   log:
+  - commitID: e5cc217bd515925c70f634a42b293e2068555ffd
+    mergeA: 
+    mergeB: 
+    authorName: Noah Demi
+    authorEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitName: Noah Demi
+    summary: commit
+    description: 
+    timeString: 2020-10-30T10:34:25.000-04:00
+    commitTimeString: 2020-10-30T10:34:25.000-04:00
+    changes:
+    - path: New Unity Project\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 2d0e4c50fd80aee40ebb9daecf8934ee56a0dcb9
+    mergeA: 
+    mergeB: 
+    authorName: Noah Demi
+    authorEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitName: Noah Demi
+    summary: commit
+    description: 
+    timeString: 2020-10-30T10:33:07.000-04:00
+    commitTimeString: 2020-10-30T10:33:07.000-04:00
+    changes:
+    - path: New Unity Project\Library\SourceAssetDB
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 4bfdb67d3c36e3d62c58bf831225a61bc509e550
     mergeA: 
     mergeB: 
