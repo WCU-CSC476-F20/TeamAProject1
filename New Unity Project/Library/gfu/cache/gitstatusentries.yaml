@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-30T10:29:31.246-04:00
+  lastUpdatedAtString: 2020-10-30T10:30:57.358-04:00
   initializedAtString: 2020-10-30T10:19:42.368-04:00
   entries:
   - path: New Unity Project\.vscode\settings.json
@@ -25,6 +25,12 @@ MonoBehaviour:
   - path: New Unity Project\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -52,144 +58,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: New Unity Project\Logs\Packages-Update.log
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Logs\Packages-Update.log
-    projectPath: Logs\Packages-Update.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\Packages\manifest.json
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Packages\manifest.json
-    projectPath: Packages\manifest.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\Packages\packages-lock.json
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\AudioManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\ClusterInputManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\DynamicsManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\EditorSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\GraphicsSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\InputManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\PackageManagerSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\PackageManagerSettings.asset
-    projectPath: ProjectSettings\PackageManagerSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\PresetManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\VersionControlSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\VersionControlSettings.asset
-    projectPath: ProjectSettings\VersionControlSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\VFXManager.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\ProjectSettings\XRSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\XRSettings.asset
-    projectPath: ProjectSettings\XRSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: New Unity Project\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup

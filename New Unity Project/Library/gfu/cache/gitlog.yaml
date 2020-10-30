@@ -13,9 +13,189 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-30T10:29:31.108-04:00
+  lastUpdatedAtString: 2020-10-30T10:30:56.543-04:00
   initializedAtString: 2020-10-30T10:19:31.877-04:00
   log:
+  - commitID: 83e27bfe4455e05fdc19b3ef8935e3b96262d8ba
+    mergeA: 
+    mergeB: 
+    authorName: Noah Demi
+    authorEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitEmail: 58009902+NoahDemi@users.noreply.github.com
+    commitName: Noah Demi
+    summary: commit
+    description: 
+    timeString: 2020-10-30T10:30:52.000-04:00
+    commitTimeString: 2020-10-30T10:30:52.000-04:00
+    changes:
+    - path: New Unity Project\Library\SourceAssetDB
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Logs\Packages-Update.log
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Packages\manifest.json
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Packages\packages-lock.json
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 6c3bddf12b382966a86235d8a49bbae872ee87cf
     mergeA: 
     mergeB: 
