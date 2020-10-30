@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-30T10:30:57.358-04:00
+  lastUpdatedAtString: 2020-10-30T10:32:27.105-04:00
   initializedAtString: 2020-10-30T10:19:42.368-04:00
   entries:
-  - path: New Unity Project\.vscode\settings.json
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\.vscode\settings.json
-    projectPath: .vscode\settings.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: New Unity Project\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -67,12 +61,6 @@ MonoBehaviour:
   - path: New Unity Project\Temp\UnityLockfile
     fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\Noah\Desktop\webscrape\TeamAProject1\New Unity Project\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
